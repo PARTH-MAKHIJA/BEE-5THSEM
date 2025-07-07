@@ -1,0 +1,15 @@
+{
+  "name": "mypackage-parth",
+  "version": "1.0.1",
+  "description": "this package do nothing",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\ ERROR\""
+  },
+  "author": "PARTH MAKHIJA",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mypackage-parth": "^1.0.1"
+  }
+}
